@@ -4,5 +4,18 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+**Use base64 decoding to view contact information.**
+
+```json
+{
+  "name": "曾凡",
+  "university": "NJAU",
+  "contact": {
+    "email": "emYyNDIwOTQwNjUwQGdtYWlsLmNvbQ==",
+    "wechat": "ZmFuX3plbmdmYW5femVuZw==",
+    "qq": "MjQyMjA5NDA2NTA=", 
+    "ins": "bGFsYWxhbGF6Zg=="
+  }
+}
+```
