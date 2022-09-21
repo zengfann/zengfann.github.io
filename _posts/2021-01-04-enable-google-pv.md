@@ -2,8 +2,8 @@
 title: 秒速五厘米
 author: sille_bille
 date: 2021-01-04 18:32:00 -0500
-categories: [Blogging, Tutorial]
-tags: [google analytics, pageviews]
+categories: [Blogging, Life]
+tags: [日漫, 新海诚]
 ---
 
 
